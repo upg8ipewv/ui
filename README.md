@@ -6,20 +6,31 @@ Beautifully designed components that you can copy and paste into your apps. Acce
 
 Visit [ui.shadcn.com](https://ui.shadcn.com) to view the documentation.
 
-## Local Development
+## Features
 
-1. Install dependencies:
+- **Designed for React & Next.js**: Built using Tailwind CSS and Radix UI primitives.
+- **Copy and paste**: Use the CLI to add components directly into your codebase.
+- **Fully customizable**: You own the code. Change styling, structure, and behavior to fit your needs.
+
+## Quick Start
+
+Run the init command to set up your project:
 
 ```bash
-pnpm install
+npx shadcn@latest init
 ```
 
-2. Start the local server:
+Add components using the CLI:
 
 ```bash
-pnpm dev
+npx shadcn@latest add button
 ```
+
+## Community & Support
+
+- [Twitter / X](https://twitter.com/shadcn)
+- [GitHub Discussions](https://github.com/shadcn-ui/ui/discussions)
 
 ## License
 
-Licensed under the [MIT license](LICENSE.md).
+Licensed under the [MIT License](LICENSE.md).
