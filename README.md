@@ -2,35 +2,18 @@
 
 Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
+**Notice**: This is **NOT** a component library. It's a collection of re-usable components that you can copy and paste into your apps.
+
+Read the documentation at [ui.shadcn.com](https://ui.shadcn.com).
+
 ## Documentation
 
-Visit [ui.shadcn.com](https://ui.shadcn.com) to view the documentation.
+Visit [ui.shadcn.com/docs](https://ui.shadcn.com/docs) to view the documentation and component examples.
 
-## Features
+## Community
 
-- **Designed for React & Next.js**: Built using Tailwind CSS and Radix UI primitives.
-- **Copy and paste**: Use the CLI to add components directly into your codebase.
-- **Fully customizable**: You own the code. Change styling, structure, and behavior to fit your needs.
-
-## Quick Start
-
-Run the init command to set up your project:
-
-```bash
-npx shadcn@latest init
-```
-
-Add components using the CLI:
-
-```bash
-npx shadcn@latest add button
-```
-
-## Community & Support
-
-- [Twitter / X](https://twitter.com/shadcn)
-- [GitHub Discussions](https://github.com/shadcn-ui/ui/discussions)
+Join our [Discord community](https://discord.gg/shadcn) to ask questions, share projects, and connect with other developers.
 
 ## License
 
-Licensed under the [MIT License](LICENSE.md).
+Licensed under the [MIT license](LICENSE.md).
